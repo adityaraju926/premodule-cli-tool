@@ -1,0 +1,2 @@
+[console_scripts]
+replace-nulls-cli-tool = replace_nulls:main
